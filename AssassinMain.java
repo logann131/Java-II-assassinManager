@@ -1,3 +1,7 @@
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
 import java.io.*;
 import java.util.*;
 
