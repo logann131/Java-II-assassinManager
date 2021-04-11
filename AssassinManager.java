@@ -1,8 +1,7 @@
-/*
-    Name: Logan Nguyen
-    Date: 12/03/2019
- */
-
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
 import java.util.*;
 public class  AssassinManager {
     // YOUR CODE GOES HERE
